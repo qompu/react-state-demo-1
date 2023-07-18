@@ -1,4 +1,4 @@
-Accessible React Website Demo 
+<h1>Accessible React Website Demo </h1>
 
 Built on github pages, Live at:
 https://qompu.github.io/react-state-demo-1/
