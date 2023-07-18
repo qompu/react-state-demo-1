@@ -1,3 +1,17 @@
+Accessible React Website Demo 
+
+Built on github pages, Live at:
+https://qompu.github.io/react-state-demo-1/
+
+Based on the LogRocket tutorial at
+https://blog.logrocket.com/deploying-react-apps-github-pages/
+
+With color contrast ratios of 4.5 to 1 chosen for accessibility 
+with the help of the Vennage accessible color palette generator
+https://venngage.com/tools/accessible-color-palette-generator
+
+---------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
