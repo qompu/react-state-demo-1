@@ -1,0 +1,46 @@
+.button {
+  background-color: #b3c7f7;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.button:hover {
+  background-color: lightgray;
+}
+
+
+.button:active {
+  background-color: lightblue;
+}
+
+
+.button.active {
+  background-color: white;
+  color: #054fb9;
+}
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  width: 50%;
+  background-color: white;
+  align-items: center;
+  left: 25%;
+  right: 25%;
+}
+
+li {
+  margin: 10px;
+  flex: 1;
+}
