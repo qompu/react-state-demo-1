@@ -1,13 +1,13 @@
 <h1>Accessible React Website Demo </h1>
 
-Built on github pages, Live at:
+Built on github pages and live at:
 https://qompu.github.io/react-state-demo-1/
 
-Based on the LogRocket tutorial at
+Based on the LogRocket tutorial at:
 https://blog.logrocket.com/deploying-react-apps-github-pages/
 
 With color contrast ratios of 4.5 to 1 chosen for accessibility 
-with the help of the Vennage accessible color palette generator
+with the help of the Vennage accessible color palette generator:
 https://venngage.com/tools/accessible-color-palette-generator
 
 
